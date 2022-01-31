@@ -8,7 +8,14 @@
 	/>
 </p> -->
 
-- 🌱 I’m currently learning **ReactJS**
+## 🌱 What am I currently doing?
+```js
+const figarillo = {
+	learning: "ReactJS",
+	improving: ["JavaScritp", "neovim", "css drawings", "python", "bootstrap5"],
+	"to-learn": ["NodeJS", "NextJS", "css animation", "tailwind"],
+}
+```
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
