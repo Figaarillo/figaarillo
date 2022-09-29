@@ -11,9 +11,9 @@
 ## 🌱 What am I currently doing?
 ```js
 const figarillo = {
-	learning: "ReactJS",
-	improving: ["JavaScritp", "neovim", "css drawings", "python", "bootstrap5"],
-	"to-learn": ["NodeJS", "NextJS", "css animation", "tailwind"],
+	learning: ["JS Test", "UI/UX"],
+	improving: ["JavaScript", "TypeScript", "CSS animation", "Tailwind"],
+	"to-learn": ["GraphQL", "React Native", "Containers"],
 }
 ```
 
